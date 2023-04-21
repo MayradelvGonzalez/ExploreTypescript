@@ -1,6 +1,5 @@
-const age = 29;
-
-if(age >= 18){
+var age = 29;
+if (age >= 18) {
     console.log('Es mayor de edad');
 }
 else {
